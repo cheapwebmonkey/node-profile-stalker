@@ -1,0 +1,10 @@
+{
+  "name": "node-profile-stalker",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Treehouse profiler app on CentOS using docker",
+  "author": "Margeaux Spring <contact@cheapwebmonkey.com>",
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}
