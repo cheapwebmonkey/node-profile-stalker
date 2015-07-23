@@ -20,4 +20,4 @@ COPY . /node-profile-stalker
 EXPOSE  8080
 CMD ["node", "/router.js"]
 
-ADD /node-profile-stalker
+ADD . /tmp/site
