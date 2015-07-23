@@ -18,6 +18,6 @@ COPY . /node-profile-stalker
 #RUN cd /; npm install
 
 EXPOSE  8080
-CMD ["node", "/router.js"]
+CMD ["node", "/node-profile-stalker/router.js"]
 
 ADD . /tmp/site
