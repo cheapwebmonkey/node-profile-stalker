@@ -1,8 +1,6 @@
 var EventEmitter = require("events").EventEmitter;
 var http = require("http");
 var util = require("util");
-
-
 /**
  * An EventEmitter to get a Treehouse students profile.
  * @param username
